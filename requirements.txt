@@ -49,3 +49,4 @@ pandas
 matplotlib
 psutil
 tqdm
+matplotlib
